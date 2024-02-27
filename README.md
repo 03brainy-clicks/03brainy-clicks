@@ -2,6 +2,8 @@
 
 I'm Chandrakant Kushwah, a passionate Full-stack Developer with expertise in HTML, CSS, JavaScript, and React. My skills extend to seamlessly integrating frontend and backend technologies, optimizing performance, and delivering end-to-end solutions that meet user needs and business goals.
 
+<img align="right" width="300" height="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+
 ## 🚀 What I do:
 
 - 💻 Full-stack development with a focus on React, Node.js, and MongoDB.
@@ -21,6 +23,10 @@ HTML | CSS | JavaScript | React | Redux Toolkit | Next.js | Node.js | Express | 
 ## 📈 GitHub Stats:
 
 [![Chandrakant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=03brainy-clicks&show_icons=true&theme=radical)](https://github.com/03brainy-clicks)
+
+## 🎧 Spotify Playing:
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
 
 ## 📫 Let's Connect:
 
